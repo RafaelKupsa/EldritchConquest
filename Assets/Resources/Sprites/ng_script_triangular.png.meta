@@ -1,0 +1,2532 @@
+fileFormatVersion: 2
+guid: bce28825ef039fb42b73320c20c9c5e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8285783877830349579
+    second: ng_script_triangular_0
+  - first:
+      213: -7923456844501836258
+    second: ng_script_triangular_1
+  - first:
+      213: 6288858810465481961
+    second: ng_script_triangular_2
+  - first:
+      213: 2686209498375948419
+    second: ng_script_triangular_3
+  - first:
+      213: 57559352326712701
+    second: ng_script_triangular_4
+  - first:
+      213: 5399200188805331198
+    second: ng_script_triangular_5
+  - first:
+      213: -541446482359882038
+    second: ng_script_triangular_6
+  - first:
+      213: -7496179662126960515
+    second: ng_script_triangular_7
+  - first:
+      213: -8027082146242709137
+    second: ng_script_triangular_8
+  - first:
+      213: -6676945708194706752
+    second: ng_script_triangular_9
+  - first:
+      213: -7344852032133481410
+    second: ng_script_triangular_10
+  - first:
+      213: -1154489048067726508
+    second: ng_script_triangular_11
+  - first:
+      213: 4368316665124325299
+    second: ng_script_triangular_12
+  - first:
+      213: 5659041809902393308
+    second: ng_script_triangular_13
+  - first:
+      213: -3099820668845914151
+    second: ng_script_triangular_14
+  - first:
+      213: -1125285296290249968
+    second: ng_script_triangular_15
+  - first:
+      213: 5471819825437902692
+    second: ng_script_triangular_16
+  - first:
+      213: 1842790856247367559
+    second: ng_script_triangular_17
+  - first:
+      213: 588794395874411518
+    second: ng_script_triangular_18
+  - first:
+      213: 7368742662562125381
+    second: ng_script_triangular_19
+  - first:
+      213: -2586567392385331829
+    second: ng_script_triangular_20
+  - first:
+      213: 8903236649046375319
+    second: ng_script_triangular_21
+  - first:
+      213: -8551584426970884827
+    second: ng_script_triangular_22
+  - first:
+      213: -4242889477685949944
+    second: ng_script_triangular_23
+  - first:
+      213: -7763232344650037094
+    second: ng_script_triangular_24
+  - first:
+      213: 7301768717556617666
+    second: ng_script_triangular_25
+  - first:
+      213: -7402544575160827976
+    second: ng_script_triangular_26
+  - first:
+      213: 5859489005712176603
+    second: ng_script_triangular_27
+  - first:
+      213: -283806361247513318
+    second: ng_script_triangular_28
+  - first:
+      213: -5353101384696265488
+    second: ng_script_triangular_29
+  - first:
+      213: -4845999734627644205
+    second: ng_script_triangular_30
+  - first:
+      213: -5455480862419186155
+    second: ng_script_triangular_31
+  - first:
+      213: -661650897571710419
+    second: ng_script_triangular_32
+  - first:
+      213: 4010762175976499887
+    second: ng_script_triangular_33
+  - first:
+      213: -666632261800719726
+    second: ng_script_triangular_34
+  - first:
+      213: -171008894778545150
+    second: ng_script_triangular_35
+  - first:
+      213: 3450222586093366007
+    second: ng_script_triangular_36
+  - first:
+      213: 8684963385024662510
+    second: ng_script_triangular_37
+  - first:
+      213: 7419069634352870510
+    second: ng_script_triangular_38
+  - first:
+      213: -4257020960095347921
+    second: ng_script_triangular_39
+  - first:
+      213: -3724281830402681317
+    second: ng_script_triangular_40
+  - first:
+      213: -7824354613418992648
+    second: ng_script_triangular_41
+  - first:
+      213: 7325438317120457055
+    second: ng_script_triangular_42
+  - first:
+      213: 4124155444232658710
+    second: ng_script_triangular_43
+  - first:
+      213: -4758010427574472745
+    second: ng_script_triangular_44
+  - first:
+      213: 1582875871703941102
+    second: ng_script_triangular_45
+  - first:
+      213: -8576469142623602726
+    second: ng_script_triangular_46
+  - first:
+      213: 2036776318651357626
+    second: ng_script_triangular_47
+  - first:
+      213: 6520600902240056549
+    second: ng_script_triangular_48
+  - first:
+      213: 4655600770128738522
+    second: ng_script_triangular_49
+  - first:
+      213: 3702062971234038933
+    second: ng_script_triangular_50
+  - first:
+      213: 3770605364004287545
+    second: ng_script_triangular_51
+  - first:
+      213: -5014815239470462225
+    second: ng_script_triangular_52
+  - first:
+      213: 5407895118501989189
+    second: ng_script_triangular_53
+  - first:
+      213: -3894473250081651425
+    second: ng_script_triangular_54
+  - first:
+      213: -3666897611103574581
+    second: ng_script_triangular_55
+  - first:
+      213: 2017441768160998199
+    second: ng_script_triangular_56
+  - first:
+      213: -5062586996562723800
+    second: ng_script_triangular_57
+  - first:
+      213: 867371526577870401
+    second: ng_script_triangular_58
+  - first:
+      213: 8194017674497609107
+    second: ng_script_triangular_59
+  - first:
+      213: -1702247240720941453
+    second: ng_script_triangular_60
+  - first:
+      213: 454572572412688961
+    second: ng_script_triangular_61
+  - first:
+      213: -1983642249322621219
+    second: ng_script_triangular_62
+  - first:
+      213: -1003616830602127202
+    second: ng_script_triangular_63
+  - first:
+      213: 1357432566128722964
+    second: ng_script_triangular_64
+  - first:
+      213: -7675479729404757136
+    second: ng_script_triangular_65
+  - first:
+      213: -3441775566674980821
+    second: ng_script_triangular_66
+  - first:
+      213: -4650177619216562292
+    second: ng_script_triangular_67
+  - first:
+      213: -5909686702365296664
+    second: ng_script_triangular_68
+  - first:
+      213: -2990404388235716728
+    second: ng_script_triangular_69
+  - first:
+      213: 1563496044755539813
+    second: ng_script_triangular_70
+  - first:
+      213: 8518497397900598091
+    second: ng_script_triangular_71
+  - first:
+      213: -1588492532287069004
+    second: ng_script_triangular_72
+  - first:
+      213: 6718949170025632470
+    second: ng_script_triangular_73
+  - first:
+      213: 4525404565791541481
+    second: ng_script_triangular_74
+  - first:
+      213: -3717907144134140625
+    second: ng_script_triangular_75
+  - first:
+      213: -733649364493373268
+    second: ng_script_triangular_76
+  - first:
+      213: -5535204009393387576
+    second: ng_script_triangular_77
+  - first:
+      213: 41186547825620196
+    second: ng_script_triangular_78
+  - first:
+      213: 6641095139418224363
+    second: ng_script_triangular_79
+  - first:
+      213: -1548528182229644214
+    second: ng_script_triangular_80
+  - first:
+      213: 6731429638863547373
+    second: ng_script_triangular_81
+  - first:
+      213: -6097907414681327398
+    second: ng_script_triangular_82
+  - first:
+      213: 5947410962632204605
+    second: ng_script_triangular_83
+  - first:
+      213: 2411684878570280948
+    second: ng_script_triangular_84
+  - first:
+      213: -4868475782713486631
+    second: ng_script_triangular_85
+  - first:
+      213: -1342894387416065680
+    second: ng_script_triangular_86
+  - first:
+      213: 7907886348032612769
+    second: ng_script_triangular_87
+  - first:
+      213: 6315958273754707809
+    second: ng_script_triangular_88
+  - first:
+      213: -3082164099650732928
+    second: ng_script_triangular_89
+  - first:
+      213: 6763119224931956189
+    second: ng_script_triangular_90
+  - first:
+      213: -5119402033891446540
+    second: ng_script_triangular_91
+  - first:
+      213: 8933819938463956381
+    second: ng_script_triangular_92
+  - first:
+      213: 920960549734444296
+    second: ng_script_triangular_93
+  - first:
+      213: -6501658830719998601
+    second: ng_script_triangular_94
+  - first:
+      213: 8778899421590554795
+    second: ng_script_triangular_95
+  - first:
+      213: 1736505718783193070
+    second: ng_script_triangular_96
+  - first:
+      213: -686857050966203964
+    second: ng_script_triangular_97
+  - first:
+      213: -567031663600051966
+    second: ng_script_triangular_98
+  - first:
+      213: -4152747506179493542
+    second: ng_script_triangular_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ng_script_triangular_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039cb379840df270800000000000000
+      internalID: 8285783877830349579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e945eeaf93a0290800000000000000
+      internalID: -7923456844501836258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e47160b4c3864750800000000000000
+      internalID: 6288858810465481961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3888afe7e45574520800000000000000
+      internalID: 2686209498375948419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6fec0ded7cc000800000000000000
+      internalID: 57559352326712701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8b6fc27ffcdea40800000000000000
+      internalID: 5399200188805331198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceed020b456c78f0800000000000000
+      internalID: -541446482359882038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d703a62505838f790800000000000000
+      internalID: -7496179662126960515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_8
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b25a31531a9090800000000000000
+      internalID: -8027082146242709137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_9
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4c7e1149b653a0800000000000000
+      internalID: -6676945708194706752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb0e0ddf7d11a90800000000000000
+      internalID: -7344852032133481410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45328d8d35e6affe0800000000000000
+      internalID: -1154489048067726508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b78723dcd06f9c30800000000000000
+      internalID: 4368316665124325299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d0501b84f88e40800000000000000
+      internalID: 5659041809902393308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7860676893bf4d0800000000000000
+      internalID: -3099820668845914151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01346ab2cfe2260f0800000000000000
+      internalID: -1125285296290249968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4678a2ae32fcfeb40800000000000000
+      internalID: 5471819825437902692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_17
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78756fd2588e29910800000000000000
+      internalID: 1842790856247367559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_18
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c5db2261db2800800000000000000
+      internalID: 588794395874411518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_19
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546184b0968034660800000000000000
+      internalID: 7368742662562125381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d834d29aaaa1cd0800000000000000
+      internalID: -2586567392385331829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf5a99f86ae8b70800000000000000
+      internalID: 8903236649046375319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52553ab954ba25980800000000000000
+      internalID: -8551584426970884827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4945ff7a3e15c0800000000000000
+      internalID: -4242889477685949944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98cf4c5055734490800000000000000
+      internalID: -7763232344650037094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1950256f7155560800000000000000
+      internalID: 7301768717556617666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf3b83ede0e44990800000000000000
+      internalID: -7402544575160827976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_27
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f7cea436115150800000000000000
+      internalID: 5859489005712176603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1588dc3e97bf0cf0800000000000000
+      internalID: -283806361247513318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4078e07a6f5b5b0800000000000000
+      internalID: -5353101384696265488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcc1e3aaec8fbcb0800000000000000
+      internalID: -4845999734627644205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e009c5f0d3a44b0800000000000000
+      internalID: -5455480862419186155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a7be4a30851d6f0800000000000000
+      internalID: -661650897571710419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faae6a9f2f619a730800000000000000
+      internalID: 4010762175976499887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a8d876d75afb6f0800000000000000
+      internalID: -666632261800719726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cea45f05470adf0800000000000000
+      internalID: -171008894778545150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_36
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faef187927a1ef20800000000000000
+      internalID: 3450222586093366007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_37
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb4bab0f20378870800000000000000
+      internalID: 8684963385024662510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_38
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e647d774684d5f660800000000000000
+      internalID: 7419069634352870510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_39
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bdf10ddf50ce4c0800000000000000
+      internalID: -4257020960095347921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1618674861b05cc0800000000000000
+      internalID: -3724281830402681317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd87e2fee4a6390800000000000000
+      internalID: -7824354613418992648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59000c665f29a560800000000000000
+      internalID: 7325438317120457055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f1bfb9681fb3930800000000000000
+      internalID: 4124155444232658710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa1d2a9b628fdb0800000000000000
+      internalID: -4758010427574472745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_45
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef3378083187f510800000000000000
+      internalID: 1582875871703941102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_46
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad732de31c24af880800000000000000
+      internalID: -8576469142623602726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_47
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab954204545144c10800000000000000
+      internalID: 2036776318651357626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_48
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e43c1419f3dd7a50800000000000000
+      internalID: 6520600902240056549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_49
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8fe87eb340c9040800000000000000
+      internalID: 4655600770128738522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594388078ae506330800000000000000
+      internalID: 3702062971234038933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93478add991e35430800000000000000
+      internalID: 3770605364004287545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac52dfb1cc76ab0800000000000000
+      internalID: -5014815239470462225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_53
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b41e045f3bc0b40800000000000000
+      internalID: 5407895118501989189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_54
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f154f9d763d04f9c0800000000000000
+      internalID: -3894473250081651425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5617efc009c1dc0800000000000000
+      internalID: -3666897611103574581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_56
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733b54a69946ffb10800000000000000
+      internalID: 2017441768160998199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_57
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cfd5903f31eb9b0800000000000000
+      internalID: -5062586996562723800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_58
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14656f1dec5890c00800000000000000
+      internalID: 867371526577870401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_59
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc3b349aff6b170800000000000000
+      internalID: 8194017674497609107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e70f847276068e0800000000000000
+      internalID: -1702247240720941453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a3b4f9857fe4600800000000000000
+      internalID: 454572572412688961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd61baf42efa874e0800000000000000
+      internalID: -1983642249322621219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985b595fcf6212f0800000000000000
+      internalID: -1003616830602127202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41446a61ab196d210800000000000000
+      internalID: 1357432566128722964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_65
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b3e104ad73b7590800000000000000
+      internalID: -7675479729404757136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_66
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2018bf7b5b5c30d0800000000000000
+      internalID: -3441775566674980821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_67
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870020d710477fb0800000000000000
+      internalID: -4650177619216562292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_68
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7baab41439cfda0800000000000000
+      internalID: -5909686702365296664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_69
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887d0708d03ff76d0800000000000000
+      internalID: -2990404388235716728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567d1637e57a2b510800000000000000
+      internalID: 1563496044755539813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_71
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b54fd1048c73670800000000000000
+      internalID: 8518497397900598091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b42ba4457a84f9e0800000000000000
+      internalID: -1588492532287069004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_73
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2984feba08e3d50800000000000000
+      internalID: 6718949170025632470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_74
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e88fe8d9777dce30800000000000000
+      internalID: 4525404565791541481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_75
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5ff59627576cc0800000000000000
+      internalID: -3717907144134140625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_76
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07eaf3acd81d5f0800000000000000
+      internalID: -733649364493373268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_77
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c70accb7410f23b0800000000000000
+      internalID: -5535204009393387576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_78
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4bba072f2529000800000000000000
+      internalID: 41186547825620196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_79
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b890e7d8e92c50800000000000000
+      internalID: 6641095139418224363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c458d92d5828ae0800000000000000
+      internalID: -1548528182229644214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb6ff68797da6d50800000000000000
+      internalID: 6731429638863547373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e2b2b381ef5ba0800000000000000
+      internalID: -6097907414681327398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_83
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e4f082c2798250800000000000000
+      internalID: 5947410962632204605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_84
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7dc519e96087120800000000000000
+      internalID: 2411684878570280948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d255c5e113bf6cb0800000000000000
+      internalID: -4868475782713486631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_86
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079133b6ba41d5de0800000000000000
+      internalID: -1342894387416065680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_87
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a915aa5cb47ebd60800000000000000
+      internalID: 7907886348032612769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_88
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167b65b269ac6a750800000000000000
+      internalID: 6315958273754707809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_89
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3bd4d414f935d0800000000000000
+      internalID: -3082164099650732928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53faf3a1d6bdd50800000000000000
+      internalID: 6763119224931956189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0fc7359fa34f8b0800000000000000
+      internalID: -5119402033891446540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d327f86ed4bfb70800000000000000
+      internalID: 8933819938463956381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_93
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de1139db8e7cc00800000000000000
+      internalID: 920960549734444296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_94
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752720adb775c5a0800000000000000
+      internalID: -6501658830719998601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_95
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba889c6e28ae4d970800000000000000
+      internalID: 8778899421590554795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_96
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa18630ce491810800000000000000
+      internalID: 1736505718783193070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_97
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1efa9b62bc776f0800000000000000
+      internalID: -686857050966203964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_98
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20958bac4bf7128f0800000000000000
+      internalID: -567031663600051966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_triangular_99
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a513844352a7e56c0800000000000000
+      internalID: -4152747506179493542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

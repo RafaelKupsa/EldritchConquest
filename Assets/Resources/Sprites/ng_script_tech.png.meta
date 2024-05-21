@@ -1,0 +1,2532 @@
+fileFormatVersion: 2
+guid: 1bcd246cb3622f84eb0877d3ac3c24fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1284689983173774730
+    second: ng_script_tech_0
+  - first:
+      213: -6254995174610192526
+    second: ng_script_tech_1
+  - first:
+      213: -7417363697657943268
+    second: ng_script_tech_2
+  - first:
+      213: -1648656851205916542
+    second: ng_script_tech_3
+  - first:
+      213: 3665146636328295983
+    second: ng_script_tech_4
+  - first:
+      213: -947458000712179844
+    second: ng_script_tech_5
+  - first:
+      213: 3142992907435003857
+    second: ng_script_tech_6
+  - first:
+      213: 7738491077935720396
+    second: ng_script_tech_7
+  - first:
+      213: -9134325495624174302
+    second: ng_script_tech_8
+  - first:
+      213: -8767521733293745628
+    second: ng_script_tech_9
+  - first:
+      213: 4262054575597196579
+    second: ng_script_tech_10
+  - first:
+      213: -8527340098757220262
+    second: ng_script_tech_11
+  - first:
+      213: 8989593817665177332
+    second: ng_script_tech_12
+  - first:
+      213: 920898554782866689
+    second: ng_script_tech_13
+  - first:
+      213: -5744227328076914996
+    second: ng_script_tech_14
+  - first:
+      213: 2977329309154186282
+    second: ng_script_tech_15
+  - first:
+      213: -8815672455912425338
+    second: ng_script_tech_16
+  - first:
+      213: 5284291739480572675
+    second: ng_script_tech_17
+  - first:
+      213: 6858728810445460675
+    second: ng_script_tech_18
+  - first:
+      213: -4259175746633964035
+    second: ng_script_tech_19
+  - first:
+      213: 1277417411365778661
+    second: ng_script_tech_20
+  - first:
+      213: 7208311316611364182
+    second: ng_script_tech_21
+  - first:
+      213: 8831964631312695112
+    second: ng_script_tech_22
+  - first:
+      213: 1858925192646550931
+    second: ng_script_tech_23
+  - first:
+      213: -9075845516528614052
+    second: ng_script_tech_24
+  - first:
+      213: 4424773579280361945
+    second: ng_script_tech_25
+  - first:
+      213: 3221189610092864873
+    second: ng_script_tech_26
+  - first:
+      213: -7833755111135748018
+    second: ng_script_tech_27
+  - first:
+      213: -1686067125418421130
+    second: ng_script_tech_28
+  - first:
+      213: -8402252550503810717
+    second: ng_script_tech_29
+  - first:
+      213: 982218180425142125
+    second: ng_script_tech_30
+  - first:
+      213: 8323154029659092629
+    second: ng_script_tech_31
+  - first:
+      213: -7959425861499810027
+    second: ng_script_tech_32
+  - first:
+      213: -8711081485286783453
+    second: ng_script_tech_33
+  - first:
+      213: 834085818749682161
+    second: ng_script_tech_34
+  - first:
+      213: -5778896914278619097
+    second: ng_script_tech_35
+  - first:
+      213: 1249102518091111277
+    second: ng_script_tech_36
+  - first:
+      213: 3568155811720741949
+    second: ng_script_tech_37
+  - first:
+      213: 7708664272418831344
+    second: ng_script_tech_38
+  - first:
+      213: -2783883069283871097
+    second: ng_script_tech_39
+  - first:
+      213: 473037816657826696
+    second: ng_script_tech_40
+  - first:
+      213: -4795054332239887173
+    second: ng_script_tech_41
+  - first:
+      213: -8735335634862700152
+    second: ng_script_tech_42
+  - first:
+      213: -581699650795776894
+    second: ng_script_tech_43
+  - first:
+      213: 4644751607961423087
+    second: ng_script_tech_44
+  - first:
+      213: -767985509013069172
+    second: ng_script_tech_45
+  - first:
+      213: -8017574793026212311
+    second: ng_script_tech_46
+  - first:
+      213: -9162169436047386416
+    second: ng_script_tech_47
+  - first:
+      213: -7003926295405527597
+    second: ng_script_tech_48
+  - first:
+      213: -4183675592737845870
+    second: ng_script_tech_49
+  - first:
+      213: 8778159973686028412
+    second: ng_script_tech_50
+  - first:
+      213: 2644203102731737761
+    second: ng_script_tech_51
+  - first:
+      213: -2749449611380604748
+    second: ng_script_tech_52
+  - first:
+      213: -5489864216122361594
+    second: ng_script_tech_53
+  - first:
+      213: -8199514645522299436
+    second: ng_script_tech_54
+  - first:
+      213: 3544207937910945215
+    second: ng_script_tech_55
+  - first:
+      213: -81495907675267856
+    second: ng_script_tech_56
+  - first:
+      213: 353559683836242540
+    second: ng_script_tech_57
+  - first:
+      213: 2850853271572245405
+    second: ng_script_tech_58
+  - first:
+      213: 7155455564362817248
+    second: ng_script_tech_59
+  - first:
+      213: 4988736466994868829
+    second: ng_script_tech_60
+  - first:
+      213: -47070608304390145
+    second: ng_script_tech_61
+  - first:
+      213: -2400567442605267490
+    second: ng_script_tech_62
+  - first:
+      213: 6593958177061023109
+    second: ng_script_tech_63
+  - first:
+      213: -6607170310453717041
+    second: ng_script_tech_64
+  - first:
+      213: 4717072952205573412
+    second: ng_script_tech_65
+  - first:
+      213: 1989564116792094617
+    second: ng_script_tech_66
+  - first:
+      213: -3608691821719679273
+    second: ng_script_tech_67
+  - first:
+      213: 3785581583707068332
+    second: ng_script_tech_68
+  - first:
+      213: 8392203261811203299
+    second: ng_script_tech_69
+  - first:
+      213: -4683005268793626455
+    second: ng_script_tech_70
+  - first:
+      213: 7039698555451716455
+    second: ng_script_tech_71
+  - first:
+      213: -5976263459945092747
+    second: ng_script_tech_72
+  - first:
+      213: 4697693780894454975
+    second: ng_script_tech_73
+  - first:
+      213: 1011512015466001406
+    second: ng_script_tech_74
+  - first:
+      213: -6956578093440893463
+    second: ng_script_tech_75
+  - first:
+      213: 8302121610748329870
+    second: ng_script_tech_76
+  - first:
+      213: -5605918139131964957
+    second: ng_script_tech_77
+  - first:
+      213: -732582248480381264
+    second: ng_script_tech_78
+  - first:
+      213: -6140587958246876513
+    second: ng_script_tech_79
+  - first:
+      213: 1303804957779133519
+    second: ng_script_tech_80
+  - first:
+      213: -4619968863808959071
+    second: ng_script_tech_81
+  - first:
+      213: -6149576523494044083
+    second: ng_script_tech_82
+  - first:
+      213: -6287925520612259778
+    second: ng_script_tech_83
+  - first:
+      213: -6209581627942187809
+    second: ng_script_tech_84
+  - first:
+      213: -3474598437499363633
+    second: ng_script_tech_85
+  - first:
+      213: 1530156931768172053
+    second: ng_script_tech_86
+  - first:
+      213: -742973577054149923
+    second: ng_script_tech_87
+  - first:
+      213: 6132221170263700704
+    second: ng_script_tech_88
+  - first:
+      213: 2385846548165887540
+    second: ng_script_tech_89
+  - first:
+      213: -1551770953650752066
+    second: ng_script_tech_90
+  - first:
+      213: 5925588174364615838
+    second: ng_script_tech_91
+  - first:
+      213: -3409215384556433071
+    second: ng_script_tech_92
+  - first:
+      213: 3175206986005049310
+    second: ng_script_tech_93
+  - first:
+      213: 7454177595974781236
+    second: ng_script_tech_94
+  - first:
+      213: 3343515035512650911
+    second: ng_script_tech_95
+  - first:
+      213: 4745339408383188152
+    second: ng_script_tech_96
+  - first:
+      213: 9160377143643091579
+    second: ng_script_tech_97
+  - first:
+      213: -2394015329298714317
+    second: ng_script_tech_98
+  - first:
+      213: 4675675287756598495
+    second: ng_script_tech_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ng_script_tech_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672bc62544ddb2ee0800000000000000
+      internalID: -1284689983173774730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b391770bc139a0800000000000000
+      internalID: -6254995174610192526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b683f040b301990800000000000000
+      internalID: -7417363697657943268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2887b5b245bce19e0800000000000000
+      internalID: -1648656851205916542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed01c62773dd230800000000000000
+      internalID: 3665146636328295983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd2fbd7f3f9d2f0800000000000000
+      internalID: -947458000712179844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df4c33a5672e9b20800000000000000
+      internalID: 3142992907435003857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc763e592a4a46b60800000000000000
+      internalID: 7738491077935720396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_8
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f6828b5b5c3180800000000000000
+      internalID: -9134325495624174302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_9
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1980
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a52869f61835680800000000000000
+      internalID: -8767521733293745628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259ccf1e0cd52b30800000000000000
+      internalID: 4262054575597196579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58a1a62c5dc8a980800000000000000
+      internalID: -8527340098757220262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f60bf0c2f371cc70800000000000000
+      internalID: 8989593817665177332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dd0004b50b7cc00800000000000000
+      internalID: 920898554782866689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce52e8eda76840b0800000000000000
+      internalID: -5744227328076914996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249e7b6b39915920800000000000000
+      internalID: 2977329309154186282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688f429db9078a580800000000000000
+      internalID: -8815672455912425338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_17
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3034545f653955940800000000000000
+      internalID: 5284291739480572675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_18
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d65593891f2f50800000000000000
+      internalID: 6858728810445460675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_19
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1760
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56ce9793e54e4c0800000000000000
+      internalID: -4259175746633964035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e43b5a1e5c4ab110800000000000000
+      internalID: 1277417411365778661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6557c0183f0190460800000000000000
+      internalID: 7208311316611364182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff436d901719a70800000000000000
+      internalID: 8831964631312695112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395e8bb1d9a3cc910800000000000000
+      internalID: 1858925192646550931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c558dfea69e1c0280800000000000000
+      internalID: -9075845516528614052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92a8c7024f76d30800000000000000
+      internalID: 4424773579280361945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a3cf32e6f3bc20800000000000000
+      internalID: 3221189610092864873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_27
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e406a5f3b39e84390800000000000000
+      internalID: -7833755111135748018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67498f1f1e2e998e0800000000000000
+      internalID: -1686067125418421130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1540
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369b91682d3356b80800000000000000
+      internalID: -8402252550503810717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fcb282b3a81ad00800000000000000
+      internalID: 982218180425142125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f0b4fd78c18370800000000000000
+      internalID: 8323154029659092629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f0f3d89507a8190800000000000000
+      internalID: -7959425861499810027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326cffbda850c1780800000000000000
+      internalID: -8711081485286783453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f104ca02a4439b00800000000000000
+      internalID: 834085818749682161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72862d6dfdb3dcfa0800000000000000
+      internalID: -5778896914278619097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_36
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bddd64f14b55110800000000000000
+      internalID: 1249102518091111277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_37
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344cdc4ec2a48130800000000000000
+      internalID: 3568155811720741949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_38
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf442405daafa60800000000000000
+      internalID: 7708664272418831344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_39
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1320
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865c1f1919ad59d0800000000000000
+      internalID: -2783883069283871097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88357335361909600800000000000000
+      internalID: 473037816657826696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4c4287d7b847db0800000000000000
+      internalID: -4795054332239887173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889823a958ad5c680800000000000000
+      internalID: -8735335634862700152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2845954ef336de7f0800000000000000
+      internalID: -581699650795776894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec077e7af8757040800000000000000
+      internalID: 4644751607961423087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_45
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e0ae9f319755f0800000000000000
+      internalID: -767985509013069172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_46
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eeb85643adbb090800000000000000
+      internalID: -8017574793026212311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_47
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d85470f07f69d080800000000000000
+      internalID: -9162169436047386416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_48
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf559842e0dce90800000000000000
+      internalID: -7003926295405527597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_49
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1100
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d8367e63990f5c0800000000000000
+      internalID: -4183675592737845870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78ab15ccf942d970800000000000000
+      internalID: 8778159973686028412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa9f4c56b812b420800000000000000
+      internalID: 2644203102731737761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c2d9452ef7d9d0800000000000000
+      internalID: -2749449611380604748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_53
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f5ecf49510d3b0800000000000000
+      internalID: -5489864216122361594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_54
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c70f6fd8753e80800000000000000
+      internalID: -8199514645522299436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb53d4d675e8f2130800000000000000
+      internalID: 3544207937910945215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_56
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc1e5c57e77edef0800000000000000
+      internalID: -81495907675267856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_57
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a65f1c8a818e400800000000000000
+      internalID: 353559683836242540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_58
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be2de22f3409720800000000000000
+      internalID: 2850853271572245405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_59
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 880
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee10fface84d4360800000000000000
+      internalID: 7155455564362817248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523441a26d8b3540800000000000000
+      internalID: 4988736466994868829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffb7a8f785c85ff0800000000000000
+      internalID: -47070608304390145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5252431a87faed0800000000000000
+      internalID: -2400567442605267490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d21879602728b50800000000000000
+      internalID: 6593958177061023109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc716e2eb9d9e44a0800000000000000
+      internalID: -6607170310453717041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_65
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df0df9bd8667140800000000000000
+      internalID: 4717072952205573412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_66
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fa147e50a5c9b10800000000000000
+      internalID: 1989564116792094617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_67
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8a8668e95bedc0800000000000000
+      internalID: -3608691821719679273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_68
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7de1db466198430800000000000000
+      internalID: 3785581583707068332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_69
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 660
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec912f1768177470800000000000000
+      internalID: 8392203261811203299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f548058f920fb0800000000000000
+      internalID: -4683005268793626455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_71
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b78bc98802b160800000000000000
+      internalID: 7039698555451716455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57963d9fb0c001da0800000000000000
+      internalID: -5976263459945092747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_73
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb496c1ba9f813140800000000000000
+      internalID: 4697693780894454975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_74
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3f3ef91dc990e00800000000000000
+      internalID: 1011512015466001406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_75
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf030e415457f90800000000000000
+      internalID: -6956578093440893463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_76
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7fb25e9f073370800000000000000
+      internalID: 8302121610748329870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_77
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1de156727c332b0800000000000000
+      internalID: -5605918139131964957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_78
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6e19e835855d5f0800000000000000
+      internalID: -732582248480381264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_79
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 440
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a57a449cf38caa0800000000000000
+      internalID: -6140587958246876513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4481d483bb081210800000000000000
+      internalID: 1303804957779133519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad4d47cbc292efb0800000000000000
+      internalID: -4619968863808959071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e4e06dbb058aaa0800000000000000
+      internalID: -6149576523494044083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_83
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e380bc9cd0dccb8a0800000000000000
+      internalID: -6287925520612259778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_84
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcc6beb86223d9a0800000000000000
+      internalID: -6209581627942187809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce19bb512fb7cfc0800000000000000
+      internalID: -3474598437499363633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_86
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb4a05f953c3510800000000000000
+      internalID: 1530156931768172053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_87
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2af26d77d60b5f0800000000000000
+      internalID: -742973577054149923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_88
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4b2b91aa60a1550800000000000000
+      internalID: 6132221170263700704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_89
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 220
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43605087bca3c1120800000000000000
+      internalID: 2385846548165887540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b0ee0a80077ae0800000000000000
+      internalID: -1551770953650752066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94224aac0beb3250800000000000000
+      internalID: 5925588174364615838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15197b8aba800b0d0800000000000000
+      internalID: -3409215384556433071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_93
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf6b294ee9901c20800000000000000
+      internalID: 3175206986005049310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_94
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43980c4970f827760800000000000000
+      internalID: 7454177595974781236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_95
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb8e8c53d866e20800000000000000
+      internalID: 3343515035512650911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_96
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc975fcc05dad140800000000000000
+      internalID: 4745339408383188152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_97
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7234777a72302f70800000000000000
+      internalID: 9160377143643091579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_98
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317f46fdbfb6ced0800000000000000
+      internalID: -2394015329298714317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_tech_99
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcedc3c6e553e040800000000000000
+      internalID: 4675675287756598495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

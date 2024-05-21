@@ -1,0 +1,2532 @@
+fileFormatVersion: 2
+guid: a6cedcc932ef00447bd19acd9d12d3f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2124376673962548845
+    second: ng_script_hieroglyphs_0
+  - first:
+      213: -3310390349442985997
+    second: ng_script_hieroglyphs_1
+  - first:
+      213: 8273911343988900758
+    second: ng_script_hieroglyphs_2
+  - first:
+      213: 4232543977483278112
+    second: ng_script_hieroglyphs_3
+  - first:
+      213: 1225862242871523927
+    second: ng_script_hieroglyphs_4
+  - first:
+      213: 2124603950228599310
+    second: ng_script_hieroglyphs_5
+  - first:
+      213: 8893740719848671148
+    second: ng_script_hieroglyphs_6
+  - first:
+      213: -4245423653781792350
+    second: ng_script_hieroglyphs_7
+  - first:
+      213: -3791200673639938296
+    second: ng_script_hieroglyphs_8
+  - first:
+      213: -4119199906341252040
+    second: ng_script_hieroglyphs_9
+  - first:
+      213: 2927926004216185981
+    second: ng_script_hieroglyphs_10
+  - first:
+      213: -4013701490586220752
+    second: ng_script_hieroglyphs_11
+  - first:
+      213: -3928213579319092096
+    second: ng_script_hieroglyphs_12
+  - first:
+      213: -1195521904849479461
+    second: ng_script_hieroglyphs_13
+  - first:
+      213: -3651562432743408151
+    second: ng_script_hieroglyphs_14
+  - first:
+      213: 6156852846054339256
+    second: ng_script_hieroglyphs_15
+  - first:
+      213: 8345826788468460061
+    second: ng_script_hieroglyphs_16
+  - first:
+      213: 1854062548631078447
+    second: ng_script_hieroglyphs_17
+  - first:
+      213: 7314241649426691974
+    second: ng_script_hieroglyphs_18
+  - first:
+      213: 6723697767333346569
+    second: ng_script_hieroglyphs_19
+  - first:
+      213: -2472681415477048461
+    second: ng_script_hieroglyphs_20
+  - first:
+      213: -7012564667460354835
+    second: ng_script_hieroglyphs_21
+  - first:
+      213: 852323773749888693
+    second: ng_script_hieroglyphs_22
+  - first:
+      213: 724502618100447119
+    second: ng_script_hieroglyphs_23
+  - first:
+      213: 5090814070827182502
+    second: ng_script_hieroglyphs_24
+  - first:
+      213: -9007226808102230474
+    second: ng_script_hieroglyphs_25
+  - first:
+      213: -148453737889408919
+    second: ng_script_hieroglyphs_26
+  - first:
+      213: -1774275156079897242
+    second: ng_script_hieroglyphs_27
+  - first:
+      213: -2080414610418494582
+    second: ng_script_hieroglyphs_28
+  - first:
+      213: 94338341622638481
+    second: ng_script_hieroglyphs_29
+  - first:
+      213: -1905978399466871627
+    second: ng_script_hieroglyphs_30
+  - first:
+      213: 5227260231316962518
+    second: ng_script_hieroglyphs_31
+  - first:
+      213: 2318835861335711607
+    second: ng_script_hieroglyphs_32
+  - first:
+      213: 6218661473762761323
+    second: ng_script_hieroglyphs_33
+  - first:
+      213: 2515655751810456523
+    second: ng_script_hieroglyphs_34
+  - first:
+      213: 3064607643113059682
+    second: ng_script_hieroglyphs_35
+  - first:
+      213: -708488070141044747
+    second: ng_script_hieroglyphs_36
+  - first:
+      213: 3233249857398494878
+    second: ng_script_hieroglyphs_37
+  - first:
+      213: -1924809931553517268
+    second: ng_script_hieroglyphs_38
+  - first:
+      213: -8371572704198548897
+    second: ng_script_hieroglyphs_39
+  - first:
+      213: 7251035263893512937
+    second: ng_script_hieroglyphs_40
+  - first:
+      213: -3195321088766555101
+    second: ng_script_hieroglyphs_41
+  - first:
+      213: -5728862176090226593
+    second: ng_script_hieroglyphs_42
+  - first:
+      213: -3281690803956114176
+    second: ng_script_hieroglyphs_43
+  - first:
+      213: 3433876662209321339
+    second: ng_script_hieroglyphs_44
+  - first:
+      213: 5816606529308720496
+    second: ng_script_hieroglyphs_45
+  - first:
+      213: 2579331303348749677
+    second: ng_script_hieroglyphs_46
+  - first:
+      213: -2579359747131083085
+    second: ng_script_hieroglyphs_47
+  - first:
+      213: -3051800861805169811
+    second: ng_script_hieroglyphs_48
+  - first:
+      213: 8573420411292925096
+    second: ng_script_hieroglyphs_49
+  - first:
+      213: 3917994249377184669
+    second: ng_script_hieroglyphs_50
+  - first:
+      213: 4946437894857637147
+    second: ng_script_hieroglyphs_51
+  - first:
+      213: -7369755414543954873
+    second: ng_script_hieroglyphs_52
+  - first:
+      213: 2150911539253320710
+    second: ng_script_hieroglyphs_53
+  - first:
+      213: -1942004350123504187
+    second: ng_script_hieroglyphs_54
+  - first:
+      213: 5975181727708983288
+    second: ng_script_hieroglyphs_55
+  - first:
+      213: 2779118423492838620
+    second: ng_script_hieroglyphs_56
+  - first:
+      213: -9193481621121327396
+    second: ng_script_hieroglyphs_57
+  - first:
+      213: -3064986723057390089
+    second: ng_script_hieroglyphs_58
+  - first:
+      213: 985727633707313399
+    second: ng_script_hieroglyphs_59
+  - first:
+      213: -6200129205351972994
+    second: ng_script_hieroglyphs_60
+  - first:
+      213: -8797884066951160987
+    second: ng_script_hieroglyphs_61
+  - first:
+      213: -6219280184007157920
+    second: ng_script_hieroglyphs_62
+  - first:
+      213: -5864996137247388497
+    second: ng_script_hieroglyphs_63
+  - first:
+      213: -3871660242330935533
+    second: ng_script_hieroglyphs_64
+  - first:
+      213: 4089368162314962315
+    second: ng_script_hieroglyphs_65
+  - first:
+      213: -9047884678386869941
+    second: ng_script_hieroglyphs_66
+  - first:
+      213: -2707237674211843489
+    second: ng_script_hieroglyphs_67
+  - first:
+      213: -4834303477284202263
+    second: ng_script_hieroglyphs_68
+  - first:
+      213: -7993845532049179670
+    second: ng_script_hieroglyphs_69
+  - first:
+      213: -588332862399394561
+    second: ng_script_hieroglyphs_70
+  - first:
+      213: -7373308742282162301
+    second: ng_script_hieroglyphs_71
+  - first:
+      213: 1362093431587837481
+    second: ng_script_hieroglyphs_72
+  - first:
+      213: 3822476674489650641
+    second: ng_script_hieroglyphs_73
+  - first:
+      213: -5773191045450354914
+    second: ng_script_hieroglyphs_74
+  - first:
+      213: 6598482069080834279
+    second: ng_script_hieroglyphs_75
+  - first:
+      213: 7558427103132475455
+    second: ng_script_hieroglyphs_76
+  - first:
+      213: 8580173631269968719
+    second: ng_script_hieroglyphs_77
+  - first:
+      213: -4274823527256317989
+    second: ng_script_hieroglyphs_78
+  - first:
+      213: 3452674149565583493
+    second: ng_script_hieroglyphs_79
+  - first:
+      213: 8287346852991633151
+    second: ng_script_hieroglyphs_80
+  - first:
+      213: -477631730682237627
+    second: ng_script_hieroglyphs_81
+  - first:
+      213: -8103116214182875592
+    second: ng_script_hieroglyphs_82
+  - first:
+      213: 4512636222898339691
+    second: ng_script_hieroglyphs_83
+  - first:
+      213: -6174650501801591907
+    second: ng_script_hieroglyphs_84
+  - first:
+      213: 3916256418508385197
+    second: ng_script_hieroglyphs_85
+  - first:
+      213: 3229239573812559093
+    second: ng_script_hieroglyphs_86
+  - first:
+      213: 8271927044172063035
+    second: ng_script_hieroglyphs_87
+  - first:
+      213: 8926930155227725613
+    second: ng_script_hieroglyphs_88
+  - first:
+      213: -4679976390704127593
+    second: ng_script_hieroglyphs_89
+  - first:
+      213: -4524637388584335043
+    second: ng_script_hieroglyphs_90
+  - first:
+      213: 3883739594530938267
+    second: ng_script_hieroglyphs_91
+  - first:
+      213: -5485300837476338494
+    second: ng_script_hieroglyphs_92
+  - first:
+      213: 6906492123148751886
+    second: ng_script_hieroglyphs_93
+  - first:
+      213: -156746618606427408
+    second: ng_script_hieroglyphs_94
+  - first:
+      213: -7234377985204450641
+    second: ng_script_hieroglyphs_95
+  - first:
+      213: -5854997859286020321
+    second: ng_script_hieroglyphs_96
+  - first:
+      213: -7438643368683457979
+    second: ng_script_hieroglyphs_97
+  - first:
+      213: -1756179340515369775
+    second: ng_script_hieroglyphs_98
+  - first:
+      213: -4183707371817606442
+    second: ng_script_hieroglyphs_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912653aba2b482e0800000000000000
+      internalID: -2124376673962548845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffc19134812f02d0800000000000000
+      internalID: -3310390349442985997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938881c786d2d270800000000000000
+      internalID: 8273911343988900758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0271c1292540dba30800000000000000
+      internalID: 4232543977483278112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75abbe90733230110800000000000000
+      internalID: 1225862242871523927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0274cd390c1c7d10800000000000000
+      internalID: 2124603950228599310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c10b401aec6b70800000000000000
+      internalID: 8893740719848671148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a99b4b1ea93515c0800000000000000
+      internalID: -4245423653781792350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807487fe213f26bc0800000000000000
+      internalID: -3791200673639938296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83415b77289a5d6c0800000000000000
+      internalID: -4119199906341252040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744fe1203512a820800000000000000
+      internalID: 2927926004216185981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037072382c77c48c0800000000000000
+      internalID: -4013701490586220752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd1daef8e2c79c0800000000000000
+      internalID: -3928213579319092096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd89f346927a86fe0800000000000000
+      internalID: -1195521904849479461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfa21705b035dc0800000000000000
+      internalID: -3651562432743408151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2fb670b09817550800000000000000
+      internalID: 6156852846054339256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a0a9bfe3552d370800000000000000
+      internalID: 8345826788468460061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_17
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26c2829014fab910800000000000000
+      internalID: 1854062548631078447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687f1731708618560800000000000000
+      internalID: 7314241649426691974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dbdf6ee7f5f4d50800000000000000
+      internalID: 6723697767333346569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc7cb7a554fadd0800000000000000
+      internalID: -2472681415477048461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decf19fc69d5eae90800000000000000
+      internalID: -7012564667460354835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b68bf7d4ff04db00800000000000000
+      internalID: 852323773749888693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b7b6ea43fd0a00800000000000000
+      internalID: 724502618100447119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9e635dc6436a640800000000000000
+      internalID: 5090814070827182502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636e0bbb0f6eff280800000000000000
+      internalID: -9007226808102230474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968d587ac1690fdf0800000000000000
+      internalID: -148453737889408919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_27
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6659e0465228067e0800000000000000
+      internalID: -1774275156079897242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8319703fe1e023e0800000000000000
+      internalID: -2080414610418494582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_29
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ed1dc8382f4100800000000000000
+      internalID: 94338341622638481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a5367eba9c85e0800000000000000
+      internalID: -1905978399466871627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc7c243c75fa8840800000000000000
+      internalID: 5227260231316962518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1a5f1ee82e2020800000000000000
+      internalID: 2318835861335711607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a590a99af1d4650800000000000000
+      internalID: 6218661473762761323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb94d7e39769e220800000000000000
+      internalID: 2515655751810456523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26573b71a6ca78a20800000000000000
+      internalID: 3064607643113059682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f714ab9ad1fa26f0800000000000000
+      internalID: -708488070141044747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_37
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d1546d9fcedc20800000000000000
+      internalID: 3233249857398494878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21db99b093b945e0800000000000000
+      internalID: -1924809931553517268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52a3e2eaf232db80800000000000000
+      internalID: -8371572704198548897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e22436a72ad0a460800000000000000
+      internalID: 7251035263893512937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c41c83660f7a3d0800000000000000
+      internalID: -3195321088766555101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5088f2243efe70b0800000000000000
+      internalID: -5728862176090226593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d9787d9971572d0800000000000000
+      internalID: -3281690803956114176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b799d7d71a497af20800000000000000
+      internalID: 3433876662209321339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df9a912dcb8b050800000000000000
+      internalID: 5816606529308720496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_46
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65c52e8720abc320800000000000000
+      internalID: 2579331303348749677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_47
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b67f4cd9f5443cd0800000000000000
+      internalID: -2579359747131083085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d633fda0943d5a5d0800000000000000
+      internalID: -3051800861805169811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_49
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1000
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acb23da078eaf670800000000000000
+      internalID: 8573420411292925096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b762ae2038f5630800000000000000
+      internalID: 3917994249377184669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d358ade0745a440800000000000000
+      internalID: 4946437894857637147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c88924f7e59b990800000000000000
+      internalID: -7369755414543954873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_53
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c9b7026a299dd10800000000000000
+      internalID: 2150911539253320710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd00ae255d9c05e0800000000000000
+      internalID: -1942004350123504187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffaf7c9f1c1ce250800000000000000
+      internalID: 5975181727708983288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_56
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c8055b79619620800000000000000
+      internalID: 2779118423492838620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_57
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde1bfbbc213a6080800000000000000
+      internalID: -9193481621121327396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_58
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd20ea70daf675d0800000000000000
+      internalID: -3064986723057390089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_59
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 800
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8296c6f020ead00800000000000000
+      internalID: 985727633707313399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f78716657b4f9a0800000000000000
+      internalID: -6200129205351972994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b9e46ed03a7e580800000000000000
+      internalID: -8797884066951160987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06790a1bf9da0b9a0800000000000000
+      internalID: -6219280184007157920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_63
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc45656195b9ea0800000000000000
+      internalID: -5864996137247388497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f9cd4c589154ac0800000000000000
+      internalID: -3871660242330935533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_65
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85439e5daa50c830800000000000000
+      internalID: 4089368162314962315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_66
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491d00a2d47f6280800000000000000
+      internalID: -9047884678386869941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_67
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f526c0acda5fd6ad0800000000000000
+      internalID: -2707237674211843489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_68
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e81a04c99a19ecb0800000000000000
+      internalID: -4834303477284202263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_69
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 600
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb7dd087d7201190800000000000000
+      internalID: -7993845532049179670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffccef6f062d5d7f0800000000000000
+      internalID: -588332862399394561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f4dfca3cebca990800000000000000
+      internalID: -7373308742282162301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9269fa462c027e210800000000000000
+      internalID: 1362093431587837481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_73
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0c29784a2c0530800000000000000
+      internalID: 3822476674489650641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_74
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f2773f45181efa0800000000000000
+      internalID: -5773191045450354914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_75
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e009584b74829b50800000000000000
+      internalID: 6598482069080834279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_76
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3065ee676de4e860800000000000000
+      internalID: 7558427103132475455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_77
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b150b3576e21770800000000000000
+      internalID: 8580173631269968719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_78
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf9764a6a6cca4c0800000000000000
+      internalID: -4274823527256317989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_79
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 400
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580d70298dc5aef20800000000000000
+      internalID: 3452674149565583493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68407fd02920370800000000000000
+      internalID: 8287346852991633151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dea37b87c1f59f0800000000000000
+      internalID: -477631730682237627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eebef3cb2fb8f80800000000000000
+      internalID: -8103116214182875592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f7a6a5cba10ae30800000000000000
+      internalID: 4512636222898339691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bbde3551c3f4aa0800000000000000
+      internalID: -6174650501801591907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_85
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab2982a676595630800000000000000
+      internalID: 3916256418508385197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_86
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc3bbb784090dc20800000000000000
+      internalID: 3229239573812559093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_87
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a2d3f1d9cbc270800000000000000
+      internalID: 8271927044172063035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_88
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3215eda3d2eb70800000000000000
+      internalID: 8926930155227725613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_89
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 200
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791addaa4426d0fb0800000000000000
+      internalID: -4679976390704127593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39caf384424531c0800000000000000
+      internalID: -4524637388584335043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd2249590d5e530800000000000000
+      internalID: 3883739594530938267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_92
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f11063fb40e3b0800000000000000
+      internalID: -5485300837476338494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_93
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04905c6ef9c8df50800000000000000
+      internalID: 6906492123148751886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f26836e7cf13ddf0800000000000000
+      internalID: -156746618606427408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_95
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa8bf44d835a9b90800000000000000
+      internalID: -7234377985204450641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_96
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f8594d77edebea0800000000000000
+      internalID: -5854997859286020321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_97
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542bece8441a4c890800000000000000
+      internalID: -7438643368683457979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_98
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc93b6c13cc0a7e0800000000000000
+      internalID: -1756179340515369775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ng_script_hieroglyphs_99
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e0a2cf4c70f5c0800000000000000
+      internalID: -4183707371817606442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
